@@ -1,0 +1,15 @@
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\bin\Debug\net8.0\Static Exercise.exe
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\bin\Debug\net8.0\Static Exercise.deps.json
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\bin\Debug\net8.0\Static Exercise.runtimeconfig.json
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\bin\Debug\net8.0\Static Exercise.dll
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\bin\Debug\net8.0\Static Exercise.pdb
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\obj\Debug\net8.0\Static Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\obj\Debug\net8.0\Static Exercise.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\obj\Debug\net8.0\Static Exercise.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\obj\Debug\net8.0\Static Exercise.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\obj\Debug\net8.0\Static Exercise.sourcelink.json
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\obj\Debug\net8.0\Static Exercise.dll
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\obj\Debug\net8.0\refint\Static Exercise.dll
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\obj\Debug\net8.0\Static Exercise.pdb
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\obj\Debug\net8.0\Static Exercise.genruntimeconfig.cache
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\Static Exercise\Static Exercise\obj\Debug\net8.0\ref\Static Exercise.dll
